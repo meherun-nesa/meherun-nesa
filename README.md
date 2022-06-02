@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning & Data Science**
 
-- 🌱 I’m currently learning **NLP, BERT**
+- 🌱 I’m interested in learning **Computer Vision, Natural Language Processing, BERT**
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
